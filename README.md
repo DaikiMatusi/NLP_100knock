@@ -9,6 +9,6 @@
 
 [第5章](https://colab.research.google.com/drive/1g_woKo60AuJZ929dDzLV4lGfdGTsQHxl?usp=sharing)
 
-[第6章]
+[第6章](https://colab.research.google.com/drive/1yHHdZz8vB3gAWQmofmUScGYKQrzSTLLr?usp=sharing)
 
 [第7章]
