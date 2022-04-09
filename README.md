@@ -12,3 +12,9 @@
 [第6章](https://colab.research.google.com/drive/1yHHdZz8vB3gAWQmofmUScGYKQrzSTLLr?usp=sharing)
 
 [第7章](https://colab.research.google.com/drive/1XUgY8DdzPtgQq5QZ8earMDRCfa-4EZJs?usp=sharing)
+
+[第8章](https://colab.research.google.com/drive/1jtEdZEW-JLT4k8Mh-8Fi8nqS_AZcgHpP?usp=sharing)
+
+[第9章]()
+
+[第10章]()
