@@ -15,6 +15,6 @@
 
 [第8章](https://colab.research.google.com/drive/1jtEdZEW-JLT4k8Mh-8Fi8nqS_AZcgHpP?usp=sharing)
 
-[第9章]()
+[第9章](https://colab.research.google.com/drive/1RTx1Q8yYsaL_l1YFRDg3P7FMhNk7TgSc?usp=sharing)
 
 [第10章]()
